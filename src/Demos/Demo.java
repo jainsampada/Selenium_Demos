@@ -7,7 +7,6 @@ public void Launch()
 	path=System.getProperty("user.dir")+"//Driver//chromedriver.exe";
 	System.out.println(path);
 	System.out.println("Hello from git");
-	System.out.println("Pawan Kashyap");
 	
 	
 }
